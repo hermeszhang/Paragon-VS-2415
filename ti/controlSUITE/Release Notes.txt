@@ -1,0 +1,504 @@
+v3.4.6 - April 13, 2017
+Position Manager Library v1.02.00.00
+Fast Current Control Library v2.00.00.00
+
+v 3.4.5 - March 3, 2017
+Interleaved PFC Kit v1.3
+HV 1PH DCAC v1.04.00.00
+powerSUITE v1.07.00.00
+TIDM 1000 v1.01.00.00
+TIDM 1001 v1.00.00.00
+F28M35x Device Support v210
+F28M36x Device Support v210
+
+v 3.4.4 - December 09, 2016
+Interleaved PFC Kit v1.2
+HV 1PH DCAC v1.03.00.00
+powerSUITE v1.06.00.00
+TIDM 1000 v1.00.00.00
+F28M36x Device Support v209
+
+v3.4.3 - November 07, 2016
+CLADataROM Symbol Libraries
+CLA Math Library v4.02.00.00
+F2833x Device Support v142
+F2837xS Device Support v210
+F2837xD Device Support v210
+F2807x Device Support v210
+
+v3.4.2 - October 03, 2016
+position manager v01.01.00.00
+
+v3.4.1 - September 09, 2016
+Serial Flash Programmer v1.03.00.00
+F28M35 controlCARD Development Kit v1.3
+F28M35x Device Support v208
+F28M36x Device Support v208
+
+v3.4.0 - June 27, 2016
+CLA Math Library v4.01.00.00
+TMDSCNCD28M36 v1.3
+F2807x Boot ROM Library v1.0
+F28379D Launchpad Design and Example Files v1.00.00.00
+F2837xS Device Support v200
+F2837xD Device Support v200
+F2807x Device Support v200
+
+v3.3.9 - March 18, 2016
+powerSUITE v1.05.00.00
+HV 1PH DCAC v1.02.00.00
+Solar Explorer Kit v1.1
+F2837xS Device Support v191
+
+v3.3.8 - February 8, 2016
+Position Manager SinCos Library v1.00.00.00
+Serial Flash Programmer v1.02.00.00
+F2837xS Device Support v190
+F2837xD Device Support v190
+F2807x Device Support v190
+F2806x Device Support v151
+
+v3.3.7 - November 13, 2015
+powerSUITE v1.04.00.00
+HV 1PH DCAC v1.01.00.00
+TMDSCNCD28377D v1.4
+TMDSCNCD28379D v1.0
+TIDM-SERVO-LAUNCHXS v1.00.00.00
+Industrial Drive Development Kit (IDDK) v2.00.00.00
+position manager v01.00.00.00
+F2833x Device Support v141
+F2837xS Device Support v180
+F2837xD Device Support v180
+F2807x Device Support v180
+
+v3.3.6 - October 16, 2015
+powerSUITE v1.03.00.00
+HV 1PH DCAC v1.00.00.00
+
+v3.3.5 - September 24, 2015
+powerSUITE v1.02.00.00
+Interleaved PFC Kit v1.1
+F2807x Device Support v170
+F2837xD Device Support v170
+F2837xS Device Support v170
+F28M35x Device Support v207
+F28M36x Device Support v207
+
+v3.3.4 - August 14, 2015
+F28377S Launchpad Design and Example Files v1.01.00.00
+F2805x Single Axis Motor and PFC control Platform v1.00.00.00
+Digital Controller Library v1.00.00.00
+Bi-directional DC to DC converter Software and Hardware package v1.00.00.00
+
+v3.3.3 - June 19, 2015
+controlSUITE GUI Updates
+F28377S Launchpad Design and Example Files v1.00.00.00
+powerSUITE v1.01.00.00
+BOOSTXL_BUCKCONV v1.01.00.00
+Digital Power Library F28X7x v1.0
+F2807x Device Support v160
+F2837xD Device Support v160
+F2837xS Device Support v160
+F2806x Device Support v150
+F2805x Device Support v104
+FPU Library v1.50.00.00
+F2806x Flash API v100a
+
+v3.3.2 - May 13, 2015
+controlSUITE GUI Updates
+Industrial Drive Development Kit (IDDK) v1.00.00.00
+F2803x Device Support v130
+F2802x0 Device Support v230
+F2802x Device Support v230
+F28069M Launchpad Design and Example Files v101
+Serial Flash Programmer v1.01.00.00
+Resolver Kit v101
+
+v3.3.1 - March 13, 2015
+controlSUITE GUI Updates
+powerSUITE v1.00.00.00
+controlSUITE Getting Started Guide Rev.C
+F2807x Device Support v150
+F2837xD Device Support v150
+F2837xS Device Support v150
+F28M35x Device Support v206
+F28M36x Device Support v206
+F2833x Device Support v140
+BOOSTXL_BUCKCONV v1.00.00.00
+Buck Boost Bi Directional Software v1.00.00.00
+Software Frequency Response Library v1.10.00.00
+Digital Power Library F2802x/F2803x/F2806x v3.5
+VCU Library v2.10.00.00
+TMDSCNCD28075 v1.2
+TMDSCNCD28377D v1.3
+
+v3.3.0 - January 22, 2015
+controlSUITE GUI Updates
+F2807x Device Support v140
+F2837xD Device Support v140
+F2837xS Device Support v140
+F28M35x Device Support v205
+F28M36x Device Support v205
+F2806x Device Support v141
+F2805x Device Support v103
+F2803x Device Support v129
+F2802x0 Device Support v222
+F2802x Device Support v222
+USB Flash Programmer v1.00.00.00
+Serial Flash Programmer v1.00.00.00
+F28069M Launchpad Design and Example Files v100
+Fixed Point Library v1.20.00.00
+
+v3.2.9 - October 23, 2014
+controlSUITE GUI Updates
+F2807x Device Support v130
+F2837xD Device Support v130
+F2837xS Device Support v130
+F28M35x Device Support v204
+F28M36x Device Support v204
+F2806x Device Support v140
+F2805x Device Support v102
+F2803x Device Support v128
+F2802x0 Device Support v221
+F2802x Device Support v221
+F2837xD Project Migration Script
+Software Frequency Response Library v1.0.0.0
+TMDSCNCD28075 v1.1
+F2837xD RevB ROM sources and symbols
+120or180pinHSECDockingStn v1.1
+Removed F2837xD Device Support v110 and v120
+Removed F2837xS Device Support v100
+
+v3.2.8 - August 26, 2014
+controlSUITE GUI Updates
+F2837xD Device Support v120
+F2837xS Device Support v100
+F28M35x Device Support v203
+F28M36x Device Support v203
+
+v3.2.7 - June 19, 2014
+controlSUITE GUI Updates
+
+v3.2.6 - May 15, 2014
+controlSUITE GUI Updates
+Solar Micro Inverter v100
+F28377D ControlCard Hardware Files v102
+CLA Math Library v401
+
+v3.2.5 - April 10, 2014
+Resolver Kit v100
+DRV830x Kit v105
+Resolver Library v100
+F2837xD Device Support v110
+F28M35x Device Support v202
+F28M36x Device Support v202
+F2802x Device Support v220
+F2802x0 Device Support v220
+Solar Library v1.2
+Floating Point DSP Library v140
+Pin Muxing Utility v103
+F28069 Iso ControlCard Hardware Files Update
+F28377D Iso ControlCard Hardware Files Update
+
+
+v3.2.4 - December 11, 2013
+controlSUITE GUI Updates
+F2837xD Device Support v100
+F2837xD Revision 0 ROM Sources
+F2837xD controlCARD Documentation v100
+VCU Library v200
+
+v3.2.3 - November 7, 2013
+controlSUITE GUI Updates for InstaSpin-FOC C2000 LaunchPad
+Pin Mux Utility v102
+
+v3.2.2 - August 6, 2013
+controlSUITE GUI Updates
+High-Voltage Motor Control + PFC Kit Enhanced Sensorless Update
+Enhanced SMO Library v100
+Motor Control Driver Update
+
+v3.2.1 - June 7, 2013
+controlSUITE GUI Updates
+F28M36x Device Support v201
+F28M35x Device Support v201
+
+v3.2.0 - April 18, 2013
+controlSUITE GUI Updates
+F28M36x Device Support v200
+F28M35x Device Support v200
+F2806x Device Support v136
+F2805x Device Support v101
+F2803x Device Support v127
+HRCAP HCCAL Library v110
+Interleaved PFC Kit v100
+F28M36x controlCARD Documentation v1.2
+Motor control math library v4.2
+
+v3.1.3 - February 26, 2013
+controlSUITE GUI Updates
+F2805x Motor Control Drivers
+High-Voltage Motor Control Kit for F2805x
+Updated Documentation for the HV Motor Control + PFC Kit
+New project for HV Motor Control + PFC Kit - HV ACI Motor Control with PFC
+
+v3.1.2 - November 26, 2012
+controlSUITE GUI Updates
+F28055 Iso-controlCARD - Design Files
+F28069 Iso-controlCARD - Design Files
+F28M36x controlCARD - Design Files
+HVPM Sensored Servo Example
+Motor Control Library Math Blocks - Update
+Solar Library - Update
+Digital Power Library - Update
+Digital Power Template Projects - Update
+F2805x IQMath ROM Symbols
+F2805x Flash API
+F28M35x ROM Symbols
+F28M36x ROM Symbols
+
+v3.1.1 - October 8, 2012
+controlSUITE GUI Updates
+F28M36x Device Support v100 - New Concerto Device and Support Package
+F28M36x controlCARD - Design files
+HSEC180/120 Docking Station - Design Files
+HSEC180 to DIM100 Adapter - Design Files
+DIM168 Experimenters Kit - v2 Design Files
+DIM100 Experimenters Kit - v2 Design Files
+
+v3.1.0 - September 17, 2012
+controlSUITE GUI Updates and addition of controlSUITE-Chinese
+F2802x Device Support v210 - Minor Bugfixes in examples
+F2806x Device Support v135 - Minor Bugfixes in examples
+F28M35x Device Support v150 - New build configurations and minor bugfixes
+C2000 LaunchPad - Minor Bugfixes in examples
+C2000 PinMux Utility - Added devices
+F2802x Flash API - Example Update
+F2803x Flash API - Example Update
+FPU Library v131 - Example Update
+
+v3.0.3 - August 8, 2012
+Resource Explorer Fixes for C2000 LaunchPad
+
+v3.0.2 - July 31, 2012
+F2802x Device Support v200 - Added C28x Driver Library and Documentation
+C2000 LaunchPad - Added kit information, documentation, and examples
+
+v3.0.1 - July 5, 2012
+F28M35x Device Support v140 - Bug fixes and added support for MCUSDK
+F28M35x controlCARD v2 - Hardware Revision Information
+
+v3.0.0 - June 13, 2012
+New controlSUITE GUI!
+F2833x Device Support v133 - Fixed bug in adc_soc example
+F2803x Device Support v125 - Adding CLA C Examples and multiple bugfixes
+F2805x Device Support v100 - First Release
+HV_SOLAR_DC_AC v1.1
+
+v2.8.7 - May 2, 2012
+Piccolo Entry Line (f2802x0) Device Support v1.10 -  Device support package (including driver library)
+F28M35x Device Support v130 -  Headers and Driver for the Concerto Line of devices
+f2806x Device Support v130 -  Adding CLA C Compiler examples
+Digital Motor Control Library v4.0 - CLA support and optimizations for the C28x
+CLA Math Library v4.0 - C library for use with the new CLA C compiler (CGT v6.1.0 and above)
+FPU Library v1.3 - Added Matrix and Vector manipulation routines, Revised Documentation, Added Math Routines
+HVMTRPFCKIT v2.0 - Latest software to be used with the Rev 1.1 Hardware of the High Voltage DMC and PFC Kit
+
+v2.8.6 - April 3, 2012
+Piccolo Entry Line (f2802x0) Device Support v1.00 -  Device support package (including driver library)
+CC2803xHWdevPkg 2_0 -  Added R1.2 set of F28035 controlCARD schematics and gerbers to package
+Updated GUIs: DRV8301-HC-C2-KIT, DRV8312-C2-KIT, DRV8412-C2-KIT, Lighting_DCDC_v2.2, F28069 controlSTICK, Piccolo controlSTICK, Multi-DCDC-Color-LED-Kit_v1.0, and LVMultiAxis+PfcKit_v1.4
+
+v2.8.4 - March 9, 2012
+F28M35x Device Support v120 -  Headers and Driver for the Concerto Line of devices
+f2806x Device Support v120 -  Adding device support for PLC devices
+f28m35x Flash API Example v100 -  f28m35x Flash API Example
+HVPSFB v1.1 - Version 1.1 update for the HVPSFB kit
+
+v2.8.3 - February 13, 2012
+Various fixes to the controlSUITE GUI.
+Kits: TMDSIACLEDCOMKIT v1.1
+Libs: 2802x Boot Rom v2.0
+
+v2.8.0 - February 7, 2012
+Kits: NEW! TMDSSOLARPEXPKIT / TMDSSOLARCEXPKIT - Solar Explorer Developers Kits
+Kits: NEW! TMDSHV1PHINVKIT - High Voltage Solar DC/AC Developer Kit
+Kits: NEW! TMDSHVMPPTKIT - High Voltage Solar DC/DC MPPT Developer Kit
+Libs: NEW! Solar Explorer Library v1.0
+Kits: DRV8312-C2-KIT v127 updated GUIs
+Libs: DRV830x-HC-C2-KIT v103 updated GUIs
+
+v2.7.0 January, 17, 2012
+Kits: NEW! TMDSIACLEDCOMKIT - AC LED Lighting & Communications Developer's Kit
+Kits: NEW! TMDSPLCMODA-P3X - PLC Add-on Kit
+Kits: DRV830x-HC-C2-KIT v102 updated hardware package and updated GUI
+Kits: DRV8312-C2-KIT v125 updated GUIs
+Kits: DRV8412-C2-KIT v130 updated GUIs
+Libs: Digital Power Library v3.3 Update
+
+v2.6.1 December 6, 2011
+Devices: Concerto F28M35x v110
+Devices: Piccolo F2806x v115
+Kits: DRV8312-C2-KIT v124 Minor Bugfix
+Kits: DRV830x-HC-C2-KIT v101 Minor Bugfix
+
+v2.6.0 November 8, 2011
+Devices: Concerto F28M35x v100 Device Support Release
+Kits: DRV8312-C2-KIT v124 Update
+Kits: DRV830x-HC-C2-KIT v101 Update
+Kits: F28M35x controlCARD Sine FIR FFT Example Project 
+Libs: DSP library for VCU v110
+Libs: SGEN library v101 Update
+Libs: Motor Control Library minor bugfix
+Libs: Download information for F28M35x Flash API
+
+v2.5.0 September 9, 2011
+Devices: Updated PinMux Package for minor bugfixes
+Kits: Updated DRV8312-C2-KIT to InstaSPIN-BLDC GUI
+Kits: New DRV830x-HC-C2-KIT with InstaSPIN-BLDC GUI
+Kits: Updated Concerto F28M35x controlCARD Infosheet
+Libs: New motor_library \libs with InstaSPIN-BLDC
+Desktop: Content Updates
+
+v2.4.0 September 2, 2011
+Devices: Added PinMux Utility v100 - For help with pin muxing on C2000 devices
+Devices: Updated F28M35x Concerto vBeta1 Device Support Files
+Devices: Piccolo F2803x v125 Device Support Files
+Kits: Updated DRV8312-C2-KIT Hardware Development Package
+Kits: Updated DC/DC LED Lighting Kit Package
+Kits: Updated DIM168 Docking Station Hardward Development Package and Quick Start Guide
+Kits: Added Crosshairs Embedded GUI for DC/DC LED Lighting Kit
+Kits: Added Crosshairs Embedded GUI for Low Voltage Dual-Axis Motor Control + PFC Kit
+Libs: Updated Math Library for Fixed-Point (IQMath) v160
+Desktop: Backend graphical user interface updates
+Desktop: Added XDS100 How to Program Guide
+Desktop: Content Updates
+
+v2.3.2 August 5, 2011
+Devices: Concerto F28M35x Alpha1: Important update to device linker command files for bug fixing.
+Kits: DRV8312-C2-KIT v121: Bugfix for Graphical User Interface
+
+v2.3.1 July 19, 2011
+Devices: Concerto F28M35x: CCSv4 Installer for Concerto updated to v2.0.0.5. Includes important bugfixes and additions for Concerto based development
+Desktop: Minor updates and improvements
+Desktop: Application Notes: Added "TMS320F2833x McBSP Interfacing to the AIC23B Stereo Audio Codec" under the Most Popular section
+Desktop: Kits: Added Utilities menu with XDS100v1 Drivers and Wiki Page link, controlCARD how to flash guide, and FTDI Identify program
+Desktop: Datasheets and Guides: Added all currently available Concerto device product folders, datasheets, and guides
+
+v2.3.0 July 14, 2011
+Devices: Concerto F28M35x Device Header Files, Example Projects, and Documentation vAlpha1 Release
+Kits: Experimenter's Kits: Concerto F28M35 DIM100 Docking Station InfoSheet R1.0
+Kits: controlCARDs: Concerto F28M35x DIM100 controlCARD Hardware Development Package
+Kits: DRV8312-C2-KIT: Version 1.2 New Hardware Package, simplified file structured
+Kits: DRV8412-C2-KIT: Version 1.2 Updated GUI, simplified file structure
+
+v2.2.1 July 6, 2011
+Kits: High Voltage Phase Shifted Full Bridge Developers Kit updated manufacturing files and minor bugfixes
+Desktop: Minor bugfixes
+
+v2.2.0 June 14, 2011
+Device: NEW! Concerto™ ARM® Cortex™-M3 + C28x MCU Series
+
+v2.1.0 May 16, 2011
+Kits: NEW KIT! High Voltage Bridgeless PFC Developers Kit
+Kits: NEW KIT! High Voltage Phase Shifted Full Bridge Developers Kit
+Kits: NEW KIT! High Voltage Resonant LLC Developers Kit
+Kits: Piccolo F28027 controlSTICK: New DC Motor GUI Example Project
+Kits: Piccolo F28069 controlSTICK: New Sine FIR + FFT32 GUI Example Project
+Kits: DRV8412-C2-KIT v1.1 Update for Rev G hardware
+Kits: DRV8312-C2-KIT v1.1 Updated FOC software and GUI
+Libraries: Digital Power Library v3.2
+Libraries: Motor Control Library Bugfix for missing v2.1 math blocks
+
+v2.0.1 April 18, 2011
+Libraries: Motor Control Library math block v3.1 update to fix DRV8312-C2-KIT missing header files
+
+v2.0.0 April 14, 2011
+Device Support: Updated Piccolo F2806x Support Files for Rev. A
+Device Support: Added F2806x USB Support Library v110
+Device: Updated Delfino C2834x Support Files v112
+Kits: NEW KIT! DRV8312-C2-KIT Three-phase Brushless Motor Control Kit
+Kits: Fixed broken file links in Flashing LEDs Example Projects
+Kits: Updated Isolated F2803x controlCARD Hardware Package
+Kits: Updated F2806x controlCARD Hardware Package
+Kits: Updated ~SupportFiles for C2000 Kits
+Kits: Updated F28027 controlSTICK Hardware Package
+Kits: F28027 controlSTICK new Crosshairs GUI
+Kits: Updated F28069 controlSTICK Example Projects
+Kits: F28069 controlSTICK new Crosshairs GUI
+Kits: LV Multi-Axis PFC Kit new Crosshairs GUI
+Libraries: HRCAP Type0 Calibration Library v1.00
+Libraries: F2806x Boot ROM source and symbol libraries Rev. A
+Libraries: F28069 Flash API V1.00 with 2806x_BootROM_API_TABLE_Symbols_fpu32.lib 
+Libraries: C28x DSP Library for VCU v100
+Libraries: C28x PMBus over I2C Software Library
+Application Notes: C28x PMBus over I2C TMS320F2803x Software Implementation
+Application Notes: TMS320F2802x/TMS320F2803x to TMS320F2806x Migration Guide
+
+v1.9.2 January 27, 2011
+Libraries: Added motor control library versions: fixed_v1.1 and v2.1
+Kits: Updated controlCARD C2834x Hardware files to Revision 1.1
+
+
+v1.9.1 January 19, 2011
+Device Support: Updated Piccolo F2806x Support Files
+
+
+v1.9: January 11, 2011
+Revised motor control library to v3.0 to have a single library set and added configuration spreadsheet
+Device Support: Piccolo F2806x Device Header Files and Peripheral Examples v1.00 First Release
+Device Support: Piccolo F2802x Rev. A Device Header Files and Peripheral Examples V1.29 Update
+Device Support: Piccolo F2803x Rev. A Device Header Files and Peripheral Examples V1.24 Update
+Kits: F28069 controlSTICK examples and dev kit support files
+Libraries: F28069 Flash API V1.00 with example
+Libraries: C28x FPU lib v1.20
+Libraries: C28x Fixedpoint lib v1.01
+
+
+v1.8: December 15, 2010
+Fixed High Voltage Motor Control broken links and updated the heading to v1.6
+Added Trip Zone appnote to "Application Notes" section under "Most Popular Application Notes"
+Kits: New Kit!: Multi-DC/DC Color LED Kit: Added to Kits section
+
+
+v1.7: November 17, 2010
+Kits: New Kit! DRV8412: Added to Kits section
+Kits: LVMultiAxis+PfcKit_v1.4: Userguide fix and new workshop materials
+Kits: HVMotorCtrl+PfcKit_v1.6: Minor fixes 
+Libraries: Digital Motor Control Library math blocks v2.1
+Libraries: Digital Power Template Project Correction for Piccolo F2802x
+Libraries: Piccolo F2802x Flash API updated for RevA
+Libraries: Boot Rom Source added for F2833x and C2834x
+Desktop: Added Buy Now links to all kits
+Desktop: Various link fixes and usability improvements
+
+v1.6
+controlSUITE Desktop updated to v1.2 - added Developer Network
+	Piccolo F2802x and F2803x Device Support Packages updated for RevA
+	Experimenter’s Kits added: includes new getting started Templates
+	LVMultiAxis+PfcKit_v1.2: added GUI interface
+	HVMotorCtrl+PfcKit_v1.5
+		Added PFC2PhilCLA+ACI Project
+		Protection for halt and IPM fault added to all projects
+		Using updated version of Motor Control Library
+	LED DC-DC Lighting: GUI source added
+	Digital Power Library Revision 3
+		CLA is moved to float math from Q24 math
+		Fixes to DPlibv2 (see documentation)
+	Digital Motor Control Library: Trip Zone Init removed for flexibility
+	Math Library for CLA Revision 3
+		12 new optimized floating-point macros for trig, exp, and log operations
+		New CLAmathBasic library adds 13 macros for basic arithmetic, type conversion, conditional statements, etc.
+	Added DSP Library for Floating-Point
+	Fixed XDS100 drivers
+
+	
+v1.5
+controlSUITE Desktop updated to v1.1 - added CCSv4 auto-launch, fixed 64-bit Windows errors
+Added revision notes to Updates section
+High Voltage Motor Control Kit to revision 1.4
+Added HV ACI Scalar control project
+Corrections to macro files and schematics
+Bug fixes to ISR routines across projects
+Added XDS100 drivers to ../libs/utilities
+Added Readme files to TMDSDCDCLEDKIT and TMDSHVMTRPFCKIT

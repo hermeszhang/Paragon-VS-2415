@@ -1,0 +1,1 @@
+"./HVACI_Sensorless.obj" "./HVACI_Sensorless-DevInit_F2805x.obj" "./F2805x_usDelay.obj" "./F2805x_GlobalVariableDefs.obj" "./F2805x_CodeStartBranch.obj" "./DLOG4CHC.obj" -l"rts2800_ml.lib" "../F2805x_FLASH_HVACI_Sensorless.cmd" "../F2805x_Headers_nonBIOS.cmd" "C:/ti/controlSUITE/libs/math/IQmath/v15c/lib/IQmath.lib" 

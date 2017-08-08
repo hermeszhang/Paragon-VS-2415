@@ -1,0 +1,126 @@
+Paragon-VS-2415 pin assignment notes
+There are two lists in this document.
+list one is a numerical ordered list of pins in order from 1 to 80 with pin label and function
+list two is a functional list of pins with pin number pin label by function group 
+
+list one - if the pins are not connected then they are not listed
+Pin Number	pin label		function
+6		VDD			VDD +3.3 -40
+7		VSS			VSS -40	
+9		/TRST			to jtag 14 pin header pin 2
+11		ADCINA4			temp sensor - not currently on drawing
+12		ADCINA3(variable gain)	IW3 - current W3
+14		ADCINA1(variable gain) 	IU1 - current U1
+15		M1GND			M1GND
+17		ADCINB1(variable gain)	IV2 - current V2
+18		ADCINA0/VREFOUT		VREFOUT - offsets voltage and current references to allow +/- current detection
+19		VREFHI			voltage reference input
+20		VDDA			VDDA
+23		ADCINA6(fixed gain)	VW3 - voltage W3
+26		ADCINB4(fixed gain)	VV2 - voltage V2
+27		M2GND			M2GND
+29		ADCINB6(fixed gain) 	VU1 - voltage U1
+31		ADCINB7(variable gain) 	TH - U4
+33		GPIO27/SCITXDC 		FLTEN - U4
+34		CANTXA			CAN TX to CAN isolator chip
+35		CANRXA			CAN RX to CAN isolator chip
+36		GPIO9/EPWM5B		ITRIP - U4
+37		VSS			VSS -40
+38		VDDIO			VDDIO +3.3 - 40
+42		GPIO28			RDY - U3
+44		GPIO17   		EN - U3
+48		SCITXDA			serial programming pin		
+49		SCIRXDA			serial programming pin
+53		VSS			VSS -40
+54		VDD			VDD +3.3 -40
+57		TCK			to jtag 14 pin header pins 11 and 9
+58		TDO			to jtag 14 pin header pin 7
+59		TDI			to jtag 14 pin header pin 3
+60		TMS			to jtag 14 pin header pin 1
+61		EPWM6B			V1B - U3
+62		EPWM3B			HIN1 - U4
+63		EPWM3A			LIN1 - U4
+64		GPIO40/EPWM7A		V1B??
+66		EPWM2B			HIN2 - U4
+67		EPWM2A			LIN2 - U4
+68		EPWM1B			HIN3 - U4
+69		EPWM1A			LIN3 - U4
+70		VDDIO			+3.3 -40
+72		VSS			VSS -40
+73		VDD			+3.3 -40
+74		GPIO34			used for setting boot mode
+79		GPIO21EPWM7B		V1A - U3
+
+list two - pins by function
+Pin Number	pin label		function
+Power Supply pins
+6		VDD			VDD +3.3 -40
+7		VSS			VSS -40	
+19		VREFHI			voltage reference input -40
+20		VDDA			VDDA
+37		VSS			VSS -40
+38		VDDIO			VDDIO +3.3 - 40
+53		VSS			VSS -40
+54		VDD			VDD +3.3 -40
+70		VDDIO			+3.3 -40
+72		VSS			VSS -40
+73		VDD			+3.3 -40
+
+Motor voltage and current feedback
+12		ADCINA3(variable gain)	IW3 - current W3
+14		ADCINA1(variable gain) 	IU1 - current U1
+15		M1GND			M1GND - current reference ground
+17		ADCINB1(variable gain)	IV2 - current V2
+18		VREFOUT			VREFOUT - offsets current references to allow +/- current detection
+23		ADCINA6(fixed gain)	VW3 - voltage W3
+26		ADCINB4(fixed gain)	VV2 - voltage V2
+27		M2GND			M2GND voltage reference ground
+29		ADCINB6(fixed gain) 	VU1 - voltage U1
+	
+JTAG 
+9		/TRST			to jtag 14 pin header pin 2
+57		TCK			to jtag 14 pin header pins 11 and 9
+58		GPIO37/TDO		to jtag 14 pin header pin 7 also used for setting boot mode
+59		TDI			to jtag 14 pin header pin 3
+60		TMS			to jtag 14 pin header pin 1
+
+pins for setting boot mode
+58		GPIO37/TDO		to jtag 14 pin header pin 7 also used for setting boot mode
+74		GPIO34			used for setting boot mode
+
+can bus pins
+34		CANTXA			CAN TX to CAN isolator chip
+35		CANRXA			CAN RX to CAN isolator chip
+
+serial programming pins
+48		SCITXDA			serial programming pin		
+49		SCIRXDA			serial programming pin
+
+pulse width modulator outputs
+62		EPWM3B			HIN1 - U4
+63		EPWM3A			LIN1 - U4
+66		EPWM2B			HIN2 - U4
+67		EPWM2A			LIN2 - U4
+68		EPWM1B			HIN3 - U4
+69		EPWM1A			LIN3 - U4
+
+temp sensor input
+11		ADCINA4			temp sensor - not currently on drawing
+
+other pins I didn't know how to characterize
+31		ADCINB7(variable gain) 	TH - U4
+33		GPIO27/SCITXDC 		FLTEN - U4
+36		GPIO9/EPWM5B		ITRIP - U4
+42		GPIO28/SCIRXDA		RDY - U3
+44		GPIO17/SPISOMIA 	EN - U3
+61		GPIO11/EPWM6B		V1B - U3
+64		GPIO40/EPWM7A		V1B??
+79		GPIO21EPWM7B		V1A - U3
+
+
+Information for this note is taken from:
+TMS320x2805x Piccolo Technical Reference Manual Chapter 2 page 206 ROM Code and Peripheral Booting
+TMS320F2805x Piccolo™ Microcontrollers specifications (Rev B) page 22.
+
+the TMS320F28054FPNQ cpu will be configured to program with either an XDS110 emulator, CAN bus or SCI port
+

@@ -122,3 +122,6 @@ TMS320F2805x Piccolo™ Microcontrollers specifications (Rev B) page 22.
 
 the TMS320F28054FPNQ cpu will be configured to program with either an XDS110 emulator, CAN bus or SCI port
 
+blah
+
+

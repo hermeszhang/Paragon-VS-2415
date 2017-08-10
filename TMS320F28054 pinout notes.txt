@@ -37,10 +37,9 @@ Pin Number	pin label		function
 58		TDO			to jtag 14 pin header pin 7
 59		TDI			to jtag 14 pin header pin 3
 60		TMS			to jtag 14 pin header pin 1
-61		EPWM6B			V1B - U3
 62		EPWM3B			HIN1 - U4
 63		EPWM3A			LIN1 - U4
-64		GPIO40/EPWM7A		V1B??
+64		GPIO40/EPWM7A		V1B - U3
 66		EPWM2B			HIN2 - U4
 67		EPWM2A			LIN2 - U4
 68		EPWM1B			HIN3 - U4
@@ -113,8 +112,7 @@ other pins I didn't know how to characterize
 36		GPIO9/EPWM5B		ITRIP - U4
 42		GPIO28/SCIRXDA		RDY - U3
 44		GPIO17/SPISOMIA 	EN - U3
-61		GPIO11/EPWM6B		V1B - U3
-64		GPIO40/EPWM7A		V1B??
+64		GPIO40/EPWM7A		V1B - U3
 79		GPIO21EPWM7B		V1A - U3
 
 

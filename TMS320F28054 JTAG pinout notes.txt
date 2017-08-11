@@ -1,0 +1,93 @@
+Paragon-VS-2415 debug connector notes
+based on:
+http://processors.wiki.ti.com/index.php/XDS_Target_Connection_Guide#Single_Device_Non-buffered_Configuration
+
+distance between debug header and mcu should be less than 6 inches as per first paragraph of Single Device Non-buffered Configuration.
+see figure 1. of wiki document
+
+debug-20-pin	mcu-pins	signal
+1		60		TMS		
+
+2		9		NTRST		
+4.7k pulldown resistor to -40. 
+some docs say 2.2k, some say 10k, wiki doc says 4.7k 
+
+3		59		TDI
+
+4		NC		TDIS
+connected to VSS	
+used by debugger to tell if debugger is connected to board
+
+5		NC		VTRef
+connected to VDD through 100 ohm current limiting resistor
+
+6		NC		Key
+connected to VSS
+
+7		58		GPIO37/TDO
+TDO needs 22-42 ohm termination resistor in series 
+(as close to mcu as possible) see note under "For JTAG signals that are not clocks". 
+TDO also connects to J10 so that configuration jumpers can bring this to gnd. pulled up by default on mcu reset.		
+
+8		NC		GND
+connected to VSS
+
+9		NC		NC		
+some drawings show pin 9 and 11 are connected but xds110 doesn't use RTCK and pin 9 is NC
+	
+10		NC		GND
+connected to VSS
+
+11		57		TCK
+TCK needs 22-42 ohm termination resistor in series
+
+12		NC		GND
+connected to VSS
+
+13		76		GPIOOUT0
+mcu pin 76 is unused GPIO13 - used for possible debugging
+
+14		77		GPIOOUT1
+mcu pin 77 is unused GPIO14 - used for possible debugging
+
+15		8		nReset /XRS
+reset pin needs 4.7k pullup to VDD - pulled low to reset, also connected to J10 pin 2
+
+16		NC		GND
+connected to VSS
+
+17		46		GPIOIN0
+mcu pin 46 is unused GPIO25 - used for possible debugging
+
+18		47		GPIOIN1
+mcu pin 47 is unused GPIO16 - used for possible debugging
+
+19		NC		NC
+
+20		nc		GND
+connected to VSS
+
+
+J10 connections
+1. VSS	- moved from pin 2 to pin 1 so three pin inline connector can be used for serial programing
+2. /RST - moved from pin 1 to pin 2 so two pin inline connector can be used for remote reset
+3. SCIRXDA
+4. VSS
+5. SCITXDA
+6. VSS
+7. TDO - jumper from pin 7 to pin 8 to bring TDO low for boot configuration
+8. VSS
+9. CTRIPFCOUT
+10. VSS - jumper from pin 9 to pin 10 to bring TDO low for boot configuration
+
+for serial programming - three pin inline connector to plug into j10
+j10 1 - VSS - gnd
+j10 3 - SCIRXDA
+j10 5 - SCIRXDA
+
+for remote reset two pin inline connector to plug into j10
+j10 2 - /rst
+j10 4 - vss - gnd
+
+for boot config jumpers be able to add jumpers between j10 7 and 8 as well as j10 9 and 10
+
